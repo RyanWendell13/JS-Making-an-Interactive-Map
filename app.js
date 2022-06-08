@@ -1,4 +1,4 @@
-//I was unable to sign up for a foursquare acount and so I could only get to part two of the interactive map activity
+//I was unable to sign up for a foursquare account and so I could only get to part two of the interactive map activity
 
 // map object
 async function CreateMap(position){
